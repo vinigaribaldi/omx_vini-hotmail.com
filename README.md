@@ -1,2 +1,1 @@
-# omx_vini-hotmail.com
-React Intro
+<p>This is a React exercise, part of the Rocketseat GoStack Bootcamp :rocket: https://rocketseat.com.br/bootcamp</p>
